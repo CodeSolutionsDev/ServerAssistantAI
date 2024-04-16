@@ -1,9 +1,9 @@
 ---
 name: Bug Report
-about: Create a bug report to help us improve ServerAssistantAI.
+description:: Create a bug report to help us improve ServerAssistantAI.
 title: "[BUG] "
 labels: ["Bug: Reported"]
-assignees: ''
+assignees: 'BlueTree242'
 
 ---
 Thank you for creating a bug report. Before you fill this out, please read the following:
