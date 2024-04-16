@@ -22,8 +22,8 @@
   <a href="https://spigotmc.org/resources/">
     <img src="https://code-solutions.dev/assets/images/spigot-soon.png" alt="Spigot">
   </a>
-  <a href="https://builtbybit.com/resources/">
-    <img src="https://code-solutions.dev/assets/images/bbb-soon.png" alt="BBB">
+  <a href="https://builtbybit.com/resources/serverassistantai.43148/">
+    <img src="https://code-solutions.dev/assets/images/bbb-button.png" alt="BBB">
   </a>
   <a href="https://polymart.org/resources">
     <img src="https://code-solutions.dev/assets/images/polymart-soon.png" alt="Polymart">
