@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a bug report to help us improve ServerAssistantAI
+about: Create a bug report to help us improve ServerAssistantAI.
 title: "[BUG] "
 labels: ["Bug: Reported"]
 assignees: 'BlueTree242'
@@ -32,7 +32,7 @@ If applicable, add screenshots or videos to help explain your problem.
 - Server Software: [e.g., Paper, Spigot, Purpur]
 
 **ServerAssistantAI Information:**
-- ServerAssistantAI Version: [e.g., 1.2.13]
+- ServerAssistantAI Version: [e.g., 1]
 - DiscordSRV Version: [e.g., 1.27.0]
 - DiscordSRVUtils Version: [e.g., 1.0.0]
 
@@ -48,5 +48,4 @@ If applicable, add screenshots or videos to help explain your problem.
 Please provide a link to your server's `latest.log` file, uploaded to a service like https://mcpaste.io/. Make sure to reproduce the issue right before uploading the log.
 
 **Additional Context**
-Add any other context about the problem here, such as:
-- 'Specific AI models or services being used and relevant configuration settings'
+- Add any other context about the problem here, such as specific AI models or services being used and relevant configuration settings
