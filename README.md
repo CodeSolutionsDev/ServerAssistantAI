@@ -7,9 +7,28 @@
 
 </div>
 
-[![Wiki](https://code-solutions.dev/assets/images/wiki-button.png) ](https://wiki.code-solutions.dev/serverassistantai)[![Discord](https://code-solutions.dev/assets/images/discord-button.png) ](https://code-solutions.dev/discord)[![Website](https://code-solutions.dev/assets/images/website-button.png)](https://code-solutions.dev)
-
-[![Spigot](https://code-solutions.dev/assets/images/spigot-soon.png) ](https://spigotmc.org/resources/)[![BBB](https://code-solutions.dev/assets/images/bbb-soon.png) ](https://builtbybit.com/resources/)[![Polymart](https://code-solutions.dev/assets/images/polymart-soon.png)](https://polymart.org/resources)
+<p align="center">
+  <a href="https://wiki.code-solutions.dev/serverassistantai">
+    <img src="https://code-solutions.dev/assets/images/wiki-button.png" alt="Wiki">
+  </a>
+  <a href="https://code-solutions.dev/discord">
+    <img src="https://code-solutions.dev/assets/images/discord-button.png" alt="Discord">
+  </a>
+  <a href="https://code-solutions.dev">
+    <img src="https://code-solutions.dev/assets/images/website-button.png" alt="Website">
+  </a>
+</p>
+<p align="center">
+  <a href="https://spigotmc.org/resources/">
+    <img src="https://code-solutions.dev/assets/images/spigot-soon.png" alt="Spigot">
+  </a>
+  <a href="https://builtbybit.com/resources/">
+    <img src="https://code-solutions.dev/assets/images/bbb-soon.png" alt="BBB">
+  </a>
+  <a href="https://polymart.org/resources">
+    <img src="https://code-solutions.dev/assets/images/polymart-soon.png" alt="Polymart">
+  </a>
+</p>
 
 ### Looking for help or have any pre-sales questions? Join our [Discord](https://code-solutions.dev/discord).
 
@@ -62,4 +81,4 @@ Join `test.code-solutions.dev` (MC Versions: 1.16-1.20.4) to experience ServerAs
 - **For Developers:** [API Usage](https://wiki.code-solutions.dev/serverassistantai/developers/api-usage)
 - **GitHub Issues:** [Report Bugs or Issues](https://github.com/CodeSolutionsDev/ServerAssistantAI/issues)
 
-**:exclamation:Disclaimer:** Performance and accuracy depend on the chosen AI model, the proper prompt format required by that model, and the comprehensiveness of the server information document.
+**❗ Disclaimer:** Performance and accuracy depend on the chosen AI model, the proper prompt format required by that model, and the comprehensiveness of the server information document.
