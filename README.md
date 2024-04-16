@@ -36,6 +36,10 @@
 
 ServerAssistantAI is a game-changing Minecraft plugin that drastically improves player support and engagement by integrating the latest AI technology. ServerAssistantAI seamlessly connects with your server's Discord and in-game server chat, providing instant, accurate, and context-aware responses to player inquiries, enhancing their experience, and reducing the workload on server staff.
 
+## Showcase:
+
+![](https://code-solutions.dev/assets/images/saai_showcase_combined.png)
+
 ### **Key Features:**
 
 * ⚡️ **Instant Dual-Platform AI Responses:** Get immediate answers to questions asked in-game, as well as on Discord.
