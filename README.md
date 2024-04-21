@@ -25,8 +25,8 @@
   <a href="https://builtbybit.com/resources/serverassistantai.43148/">
     <img src="https://code-solutions.dev/assets/images/bbb-button.png" alt="BBB">
   </a>
-  <a href="https://polymart.org/resources">
-    <img src="https://code-solutions.dev/assets/images/polymart-soon.png" alt="Polymart">
+  <a href="https://polymart.org/resource/serverassistantai-33-off.5822">
+    <img src="[https://code-solutions.dev/assets/images/polymart-soon.png](https://code-solutions.dev/assets/images/polymart-button.png)" alt="Polymart">
   </a>
 </p>
 
