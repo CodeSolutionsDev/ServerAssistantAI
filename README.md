@@ -19,8 +19,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://spigotmc.org/resources/">
-    <img src="https://code-solutions.dev/assets/images/spigot-soon.png" alt="Spigot">
+  <a href="https://www.spigotmc.org/resources/serverassistantai.116241/">
+    <img src="https://code-solutions.dev/assets/images/spigotmc-button.png" alt="Spigot">
   </a>
   <a href="https://builtbybit.com/resources/serverassistantai.43148/">
     <img src="https://code-solutions.dev/assets/images/bbb-button.png" alt="BBB">
