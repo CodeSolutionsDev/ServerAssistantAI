@@ -59,7 +59,7 @@ ServerAssistantAI is a game-changing Minecraft plugin that drastically improves 
 ### **Expand with Addons:**
 
 * 🧠 **Advanced Question Detection (Coming Soon):** Addon using a custom-trained model to detect questions more accurately, reducing false positives and false negatives.
-* 🌍 **Diverse Services & Models:** Access additional AI services and models to tailor the AI capabilities to your server’s needs.
+* 🌍 **Diverse Providers & Models:** Access additional AI providers and models to tailor the AI capabilities to your server’s needs.
 
 ### **Developer API:**
 
