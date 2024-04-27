@@ -76,6 +76,7 @@ Join `test.code-solutions.dev` (MC Versions: 1.16-1.20.5) to experience ServerAs
 
 - **Wiki Main Page:** [ServerAssistantAI Wiki](https://wiki.code-solutions.dev/serverassistantai)
 - **Getting Started:**
+  - [Prerequisites](https://wiki.code-solutions.dev/serverassistantai/getting-started/prerequisites)
   - [How ServerAssistantAI Works](https://wiki.code-solutions.dev/serverassistantai/getting-started/how-serverassistantai-works)
   - [Commands and Permissions](https://wiki.code-solutions.dev/serverassistantai/getting-started/commands-and-permissions)
   - [Addons](https://wiki.code-solutions.dev/serverassistantai/getting-started/addons)
