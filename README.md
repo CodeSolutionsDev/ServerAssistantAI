@@ -43,7 +43,7 @@ ServerAssistantAI is a game-changing Minecraft plugin that drastically improves 
 ### **Key Features:**
 
 * ⚡️ **Instant Dual-Platform AI Responses:** Get immediate answers to questions asked in-game, as well as on Discord.
-* 🤖 **Diverse AI Model Support (Paid and Free):** Choose between [**paid**](https://wiki.code-solutions.dev/serverassistantai/platform-and-models/paid-models) and [**completely free**](https://wiki.code-solutions.dev/serverassistantai/platform-and-models/free-models) Large Language Models from many different providers for diverse AI capabilities.
+* 🤖 **Diverse AI Model Support (Free and Paid):** Choose between [**completely free**](https://wiki.code-solutions.dev/serverassistantai/platform-and-models/free-models) and [**paid**](https://wiki.code-solutions.dev/serverassistantai/platform-and-models/paid-models) Large Language Models from many different providers for diverse AI capabilities.
 * 🔍 **Smart Question Detection:** Question detection to identify and respond to server-related questions from players.
 * 📚 **Document-Based Information:** The `document.txt` contains all server-related information, and is analyzed when a question is asked to provide accurate answers, ensuring only relevant context is sent to the AI, regardless of document size and optimized through AI embeddings.
 * 👥 **Public and Private Responses:** Option for players to receive AI responses publically in chat or privately.
