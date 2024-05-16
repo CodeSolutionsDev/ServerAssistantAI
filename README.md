@@ -49,7 +49,7 @@ ServerAssistantAI is a game-changing Minecraft plugin that drastically improves 
 * 👥 **Public and Private Responses:** Option for players to receive AI responses publically in chat or privately.
 * 🗣 **Forced Response Trigger:** Ability to mention the bot's name in a message to force a response, even if the message is not a question.
 * ⚙️ **Configurable Interaction:** Tailor AI persona and behavior to your server's unique needs along with many different configuration options.
-* ⛔️ **Daily Question Limits:** Manage AI usage efficiently for both Discord and in-game.
+* ⛔️ **Daily Question Limits:** Manage AI usage efficiently for both Discord and in-game, with ability to create multiple groups with different limits.
 * 🔧 **PlaceholderAPI & MiniMessage Support:** Extend functionality with custom placeholders and rich formatting.
 * 🤝 **DiscordSRV Integration:** Seamless connection with your Discord community, along with an option for a standalone bot.
 * 🔔 **Discord Webhook Integration:** Tracks player AI interactions in a specified Discord channel for easy moderation and review.
