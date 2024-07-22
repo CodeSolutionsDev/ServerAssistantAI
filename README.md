@@ -70,7 +70,7 @@ ServerAssistantAI is a game-changing Minecraft plugin that drastically improves 
 
 
 ## **Test the AI on Our Server:**
-Join `test.code-solutions.dev` (MC Versions: 1.16-1.20.6) to experience ServerAssistantAI live!
+Join `test.code-solutions.dev` (MC Versions: 1.16-1.21) to experience ServerAssistantAI live!
 
 ## Quick links
 
