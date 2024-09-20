@@ -34,25 +34,29 @@
 
 ## Overview
 
-ServerAssistantAI is a game-changing Minecraft plugin that drastically improves player support and engagement by integrating the latest AI technology. ServerAssistantAI seamlessly connects with your server's Discord and in-game server chat, providing instant, accurate, and context-aware responses to player inquiries, enhancing their experience, and reducing the workload on server staff.
+ServerAssistantAI is a game-changing Minecraft plugin that drastically improves player support and engagement by integrating the latest AI technology. ServerAssistantAI seamlessly connects with your server's Minecraft and Discord server chat, providing instant, accurate, and context-aware responses to player inquiries, enhancing their experience, and reducing the workload on server staff.
 
 ## Showcase:
 
-![](https://code-solutions.dev/assets/images/saai_showcase_combined.png)
+![](https://code-solutions.dev/assets/images/saai_showcase_updated.png)
 
 ### **Key Features:**
 
-* ⚡️ **Instant Dual-Platform AI Responses:** Get immediate answers to questions asked in-game, as well as on Discord.
-* 🤖 **Diverse AI Model Support (Free and Paid):** Choose between [**completely free**](https://wiki.code-solutions.dev/serverassistantai/platform-and-models/free-models) and [**paid**](https://wiki.code-solutions.dev/serverassistantai/platform-and-models/paid-models) Large Language Models from many different providers for diverse AI capabilities.
+* ⚡ **Instant Dual-Platform AI Responses:** Get immediate answers to questions asked in-game, as well as on Discord.
+* 🤖﻿ **Extensive AI Model Support (Free and Paid!):** Choose between [**completely free**](https://wiki.code-solutions.dev/serverassistantai/platform-and-models/free-models) and [**paid**](https://wiki.code-solutions.dev/serverassistantai/providers-and-models/paid-models) Large Language Models from 20+ [**AI Providers**](https://wiki.code-solutions.dev/serverassistantai/providers-and-models/ai-providers) for diverse AI capabilities.
 * 🔍 **Smart Question Detection:** Question detection to identify and respond to server-related questions from players.
-* 📚 **Document-Based Information:** The `document.txt` contains all server-related information, and is analyzed when a question is asked to provide accurate answers, ensuring only relevant context is sent to the AI, regardless of document size and optimized through AI embeddings.
-* 👥 **Public and Private Responses:** Option for players to receive AI responses publically in chat or privately.
-* 🗣 **Forced Response Trigger:** Ability to mention the bot's name in a message to force a response, even if the message is not a question.
+* ﻿📚 **Multi-Document Based Information:** The `documents/` directory supports multiple file formats (.txt, .md, .pdf, .docx, .pptx, .xlsx) and contains all server-related information. This information is analyzed when a question is asked to provide accurate answers, ensuring only relevant context is sent to the AI, regardless of document size and optimized through AI embeddings.
 * ⚙️ **Configurable Interaction:** Tailor AI persona and behavior to your server's unique needs along with many different configuration options.
-* ⛔️ **Daily Question Limits:** Manage AI usage efficiently for both Discord and in-game, with ability to create multiple groups with different limits.
+* 📝 **Fully Customizable Messages:** The `messages.yml` file allows you to personalize all messages displayed by ServerAssistantAI in both Minecraft and Discord to adapt to your server's style.
+* 👥 **Public and Private Responses:** Option for players to receive AI responses publically in chat or privately.
+* 🗣️ **Forced Response Trigger:** Ability to mention the bot's name in a message to force a response, even if the message is not a question.
+* 💬 **Continuous Chat Mode:** Players can engage in a continuous private conversation with the AI.
+* ⛔ **Daily Question Limits:** Manage AI usage efficiently for both Discord and in-game, with ability to create multiple groups with different limits.
 * 🔧 **PlaceholderAPI & MiniMessage Support:** Extend functionality with custom placeholders and rich formatting.
-* 🤝 **DiscordSRV Integration:** Seamless connection with your Discord community, along with an option for a standalone bot.
+* 🤝 **Discord Integration:** Seamless connection with your Discord community using JDA 5 (Java Discord API). Operates as a fully standalone bot without requiring additional plugins.
 * 🔔 **Discord Webhook Integration:** Tracks player AI interactions in a specified Discord channel for easy moderation and review.
+* 💡 **JSON Mode:** Option to receive AI responses in JSON format to reduce unnecessary additional text.
+* 🔐 **Advanced Role Management:** Customize interactions with admin roles, bypass roles, and blocked roles for full control over bot usage.
 * 🚀 **Asynchronous Performance:** Runs completely asynchronously, ensuring minimal impact on server performance.
 * 🎉 **And much more!**
 
@@ -75,17 +79,20 @@ Join `test.code-solutions.dev` (MC Versions: 1.16-1.21.1) to experience ServerAs
 ## Quick links
 
 - **Wiki Main Page:** [ServerAssistantAI Wiki](https://wiki.code-solutions.dev/serverassistantai)
+- **Features:** [ServerAssistantAI Features](https://wiki.code-solutions.dev/serverassistantai/readme/features)
 - **Getting Started:**
-  - [Prerequisites](https://wiki.code-solutions.dev/serverassistantai/getting-started/prerequisites)
   - [How ServerAssistantAI Works](https://wiki.code-solutions.dev/serverassistantai/getting-started/how-serverassistantai-works)
+  - [Prerequisites](https://wiki.code-solutions.dev/serverassistantai/getting-started/prerequisites)
+  - [Installation](https://wiki.code-solutions.dev/serverassistantai/getting-started/installation)
   - [Commands and Permissions](https://wiki.code-solutions.dev/serverassistantai/getting-started/commands-and-permissions)
   - [Addons](https://wiki.code-solutions.dev/serverassistantai/getting-started/addons)
 - **Configuration:** [The Basics](https://wiki.code-solutions.dev/serverassistantai/configuration/the-basics)
 - **Providers and Models:**
   - [AI Providers](https://wiki.code-solutions.dev/serverassistantai/providers-and-models/ai-providers)
+    - [Configuring Providers](https://wiki.code-solutions.dev/serverassistantai/providers-and-models/ai-providers/configuring-providers)
   - [Recommended Models](https://wiki.code-solutions.dev/serverassistantai/providers-and-models/recommended-models)
 - **FAQs and Support:** [FAQs](https://wiki.code-solutions.dev/serverassistantai/faqs-and-support/faqs)
 - **For Developers:** [API](https://wiki.code-solutions.dev/serverassistantai/developers/api)
-- **GitHub Issues:** [Report Bugs or Issues](https://github.com/CodeSolutionsDev/ServerAssistantAI/issues)
+- **GitHub Issues:** [Report Bugs or Issues]
 
 **❗ Disclaimer:** Performance and accuracy depend on the chosen AI model, the proper prompt format required by that model, and the comprehensiveness of the server information document.
