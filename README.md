@@ -93,6 +93,6 @@ Join `test.code-solutions.dev` (MC Versions: 1.16-1.21.1) to experience ServerAs
   - [Recommended Models](https://wiki.code-solutions.dev/serverassistantai/providers-and-models/recommended-models)
 - **FAQs and Support:** [FAQs](https://wiki.code-solutions.dev/serverassistantai/faqs-and-support/faqs)
 - **For Developers:** [API](https://wiki.code-solutions.dev/serverassistantai/developers/api)
-- **GitHub Issues:** [Report Bugs or Issues]
+- **GitHub Issues:** [Report Bugs or Issues](https://github.com/CodeSolutionsDev/ServerAssistantAI/issues)
 
 **❗ Disclaimer:** Performance and accuracy depend on the chosen AI model, the proper prompt format required by that model, and the comprehensiveness of the server information document.
